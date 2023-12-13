@@ -1,0 +1,7 @@
+print("Kunde")
+print("Name: \t \t Flybike GmBH")
+print("Ort: \t \t Oldenburg")
+print("Jahresumsatz: \t 1000000")
+print("Kundenkategorie: A")
+print("Rabattumsatz: \t 3.5")
+print("Großkunde: \t True")
